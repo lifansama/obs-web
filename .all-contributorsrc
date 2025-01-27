@@ -154,6 +154,24 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "ewized",
+      "name": "ewized",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1458852?v=4",
+      "profile": "https://github.com/ewized",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "bzip22",
+      "name": "bzip22",
+      "avatar_url": "https://avatars.githubusercontent.com/u/21367547?v=4",
+      "profile": "https://github.com/bzip22",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
@@ -162,5 +180,6 @@
   "repoType": "github",
   "repoHost": "https://github.com",
   "skipCi": true,
-  "commitConvention": "angular"
+  "commitConvention": "angular",
+  "commitType": "docs"
 }
